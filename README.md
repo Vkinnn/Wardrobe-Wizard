@@ -1,4 +1,4 @@
-# Wardrobe-Wizard
+# Wardrobe_Wizard
 
 Project Structure:
 
