@@ -90,7 +90,7 @@ elif "code" not in query_params: # Don't show this during the auth callback phas
 # Streamlit automatically creates navigation from files in the 'pages/' directory
 st.sidebar.header("Navigation")
 st.sidebar.info("Select a page above to get started.")
-st.sidebar.page_link("streamlit_app.py", label="Home (This Page)", icon="🏠")
+#st.sidebar.page_link("streamlit_app.py", label="Home (This Page)", icon="🏠")
 st.sidebar.page_link("pages/1_👋_Introduction.py", label="Introduction & Setup", icon="👋")
 st.sidebar.page_link("pages/2_👗_My_Closet_&_Chat.py", label="Closet & Chat", icon="👗")
 st.sidebar.page_link("pages/3_⭐_Saved_Outfits.py", label="Saved Outfits", icon="⭐")
